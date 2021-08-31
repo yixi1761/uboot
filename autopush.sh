@@ -12,5 +12,5 @@ git push codeup master
 #     echo $i
 # done
 #使用crontab -e 命令添加定时任务 github
-# ssh-keygen -t rsa -C "your_email@youremail.com"
+# ssh-keygen -t rsa -C "admin@venuslight.site"
 
